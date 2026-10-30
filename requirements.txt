@@ -1,0 +1,9 @@
+pandas>=3.1
+numpy>=2.5
+matplotlib>=3.11
+seaborn>=0.13
+scipy>=1.18
+scikit-learn>=1.9
+statsmodels>=0.15
+minisom>=2.3
+jupyter>=1.1

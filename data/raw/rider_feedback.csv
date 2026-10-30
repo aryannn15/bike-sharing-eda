@@ -1,0 +1,61 @@
+id,feedback,theme
+1,The annual membership price is too expensive for students,pricing
+2,Single ride fare went up again and the pricing feels unfair,pricing
+3,Monthly pass is good value compared to the daily price,pricing
+4,Please add a cheaper student membership plan,pricing
+5,The overtime fee charged after 30 minutes is too expensive,pricing
+6,Day pass price is fair for tourists but annual membership costs too much,pricing
+7,I was charged an extra fee for a short ride which seems unfair pricing,pricing
+8,Discount on membership for low income riders would be great,pricing
+9,Prices are higher than the metro for short trips,pricing
+10,Love the membership but the late return fee is expensive,pricing
+11,Corporate membership discount made the price affordable,pricing
+12,Fare for casual riders should be lower on weekends,pricing
+13,The bike chain kept slipping and the gears were broken,maintenance
+14,Brakes on my bike were loose and felt unsafe,maintenance
+15,Flat tyre on the bike I rented this morning,maintenance
+16,Seat was broken and could not be adjusted to my height,maintenance
+17,Many bikes at the station have broken lights and need repair,maintenance
+18,Bike was in good condition with smooth gears and brakes,maintenance
+19,The basket was broken and the bell was missing,maintenance
+20,Please repair bikes more often the tyres are always low,maintenance
+21,Bike felt heavy and the chain made a grinding noise,maintenance
+22,Front light did not work on my evening ride broken bike,maintenance
+23,Gears stuck in one position need maintenance urgently,maintenance
+24,Brakes squeak loudly on most bikes at this station,maintenance
+25,The app crashed when I tried to unlock the bike,app
+26,Payment failed in the app and I was charged twice,app
+27,App shows wrong number of available bikes at the station,app
+28,Could not log in to the app after the latest update,app
+29,The map in the app is slow and the unlock code never arrives,app
+30,Credit card payment keeps getting declined in the app,app
+31,App is easy to use and unlocking with the code is quick,app
+32,Please add trip history and receipts to the mobile app,app
+33,App update removed the station map feature,app
+34,Unlock code sent by the app expired before I reached the bike,app
+35,Refund for the double payment is still pending in the app,app
+36,The app login with phone number does not work,app
+37,No empty dock at the station near the office every morning,stations
+38,Station was full so I could not return my bike to a dock,stations
+39,Need more docks near the metro station during rush hour,stations
+40,No bikes available at my station after 8 am on weekdays,stations
+41,Docks at the downtown station are always full in the evening,stations
+42,Please add a new station near the university campus,stations
+43,Had to ride to three stations to find a free dock,stations
+44,Station near my home is always empty in the morning rush,stations
+45,More stations needed in residential areas outside downtown,stations
+46,The dock did not lock my bike properly at the station,stations
+47,Empty station again could not find a bike for my commute,stations
+48,Rebalancing of bikes between stations is too slow,stations
+49,Riding in heavy rain is unsafe on these slippery roads,safety
+50,Need more protected bike lanes on the main roads,safety
+51,Cars park in the bike lane and it feels unsafe,safety
+52,Snow and ice on the bike lanes made riding dangerous,safety
+53,Riding at night is unsafe without better street lights,safety
+54,Traffic on the avenue is dangerous for cyclists need a lane,safety
+55,Hot humid weather makes long rides uncomfortable,safety
+56,Helmet rental at stations would make riding safer,safety
+57,The new protected lane on the bridge feels very safe,safety
+58,Strong wind on the waterfront made the ride difficult,safety
+59,Potholes in the bike lane are dangerous after rain,safety
+60,Please clear leaves from the bike lanes in autumn,safety
